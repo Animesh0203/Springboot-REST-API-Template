@@ -82,7 +82,7 @@ This project uses the **H2 Database**, making it incredibly fast and easy to tes
 To run this project locally:
 
 ```bash
-git clone [https://github.com/your-repo/springboot-crud-api.git](https://github.com/Animesh0203/Springboot-REST-API-Template.git)
+git clone https://github.com/Animesh0203/Springboot-REST-API-Template.git
 cd springboot-crud-api
 ./mvnw spring-boot:run
 ```
