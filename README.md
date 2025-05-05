@@ -58,8 +58,8 @@ Base Route: `/users`
 - `GET /users` – Get all users
 - `GET /users/{id}` – Get user by ID
 - `POST /users/{id}` – Register a new user
-- `PUT /users/{id}/password` – Update user password
-- `POST /users/{id}/update` – Update user profile or password using request body
+- `PUT /users/{id}` – Update user password
+- `POST /users/{id}` – Update user profile or password using request body
 - `DELETE /users/{id}` – Delete user by ID
 
 ### 📁 ProductController
